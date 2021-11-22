@@ -25,7 +25,7 @@ $("#gmOverlayDialog").dialog ( {
     modal:      true,
     title:      "Copy Entries",
     zIndex:     83666   //-- This number doesn't need to get any higher.
-} );.
+} );
 
 var daiy_timesheet = JSON.parse(document.getElementById('js-timesheet-data').innerHTML).timesheet.dailyDetails
 
