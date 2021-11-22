@@ -12,6 +12,7 @@
 
 'use strict';
 
+
 var input=document.createElement("input");
 input.type="button";
 input.value="Copy/Paste Entries";
