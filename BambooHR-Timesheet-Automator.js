@@ -7,7 +7,7 @@
 // @match        https://saludamedical.bamboohr.com/employees/timesheet/*
 // @icon         https://www.google.com/s2/favicons?domain=bamboohr.com
 // @grant        none
-// @updateURL    
+// @updateURL    https://github.com/zubin3333/tampermonkey-scripts/blob/main/BambooHR-Timesheet-Automator.js
 // ==/UserScript==
 
 'use strict';
